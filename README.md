@@ -15,4 +15,7 @@
  just create a database called lms in your mysql database.
  import the lms.sql file
  Base URL--yourhost/phplms/# LibraryMannagementSystem_PHP_OOP
-
+ 
+ 
+ Username---hrrarya
+ Password---hrrarya
